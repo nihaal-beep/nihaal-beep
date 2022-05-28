@@ -6,3 +6,4 @@ Aspiring software engineer, fumbling my way through this journey.
   * html
   * python
   * java
+  * javascript
